@@ -1,0 +1,32 @@
+{
+      "FirstName" : {
+         "value" : "John",
+         "Content-Type" : "text/plain charset=ISO-8859-1",
+         "Content-Transfer-Encoding" : "8bit",
+         "type" : "data"
+      },
+      "LastName" : {
+         "value" : "Doe",
+         "Content-Type" : "text/plain",
+         "Content-Transfer-Encoding" : "8bit",
+         "type" : "data"
+      },
+      "Email" : {
+         "value" : "johndoe@boomi.com",
+         "Content-Type" : "text/plain charset=ISO-8859-1",
+         "Content-Transfer-Encoding" : "8bit",
+         "type" : "data"
+      },
+      "Phone" : {
+         "value" : "6105555555",
+         "Content-Type" : "text/plain charset=ISO-8859-1",
+         "Content-Transfer-Encoding" : "8bit",
+         "type" : "data"
+      },
+      "resumeAttachment" : {
+         "value" : "resume.docx",
+         "Content-Type" : "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+         "Content-Transfer-Encoding" : "binary",
+         "type" : "key"
+      }
+}
