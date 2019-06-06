@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 1466 825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_1"><path d="M0,825V0H1466.6V825Z" /></clipPath>
+<clipPath id="c1_1"><path d="M65.7,825V0H669V825Z" /></clipPath>
+<style type="text/css"><![CDATA[
+.g0_1{
+fill: #FFFFFF;
+}
+.g1_1{
+fill: #30ACEC;
+}
+.g2_1{
+fill: #595959;
+}
+.g3_1{
+fill: #262626;
+}
+.g4_1{
+fill: #0C5A82;
+}
+.g5_1{
+fill: #1287C3;
+}
+.g6_1{
+fill: #404040;
+}
+]]></style>
+</defs>
+<g clip-path="url(#c0_1)">
+<path fill-rule="evenodd" d="M0,0H1466.6V825H0V0Z" class="g0_1" />
+</g>
+<g clip-path="url(#c1_1)">
+<path fill-rule="evenodd" d="M118.4,323.2l43,11L246.4,-.5H200.5L118.4,323.2Z" class="g1_1" />
+<path fill-rule="evenodd" d="M108.7,321L190.2,-.5h-46L65.7,310.1l41.8,10.3l1.2,.6Z" class="g2_1" />
+</g>
+<path fill-rule="evenodd" d="M65.7,310.7L375.4,825h14.4L65.7,310.7Z" class="g3_1" />
+<path fill-rule="evenodd" d="M519.8,825L118.9,323.9L504.9,825h14.9Z" class="g4_1" />
+<g clip-path="url(#c1_1)">
+<path fill-rule="evenodd" d="M118.4,323.3l.6,.6L519.8,825H669L161.4,334.2l-43,-10.9Z" class="g5_1" />
+</g>
+<path fill-rule="evenodd" d="M496.9,825L116.1,331.3l-6.9,-9.7l-.5,-.6l-43,-10.9v.6L389.8,825H496.9Z" class="g6_1" />
+</svg>
